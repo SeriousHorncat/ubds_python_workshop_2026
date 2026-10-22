@@ -6,5 +6,3 @@ This workshop is in the new Shelby Biosciences building.
 Off of University Blvd.
 
 At least the water was nice and cold.
-
-A line we do not need, but will be committed.
